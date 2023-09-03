@@ -1,0 +1,15 @@
+D:\Projs\C#\ConsoleApp\CardGen\CardGen\bin\Debug\net7.0\CardGen.exe
+D:\Projs\C#\ConsoleApp\CardGen\CardGen\bin\Debug\net7.0\CardGen.deps.json
+D:\Projs\C#\ConsoleApp\CardGen\CardGen\bin\Debug\net7.0\CardGen.runtimeconfig.json
+D:\Projs\C#\ConsoleApp\CardGen\CardGen\bin\Debug\net7.0\CardGen.dll
+D:\Projs\C#\ConsoleApp\CardGen\CardGen\bin\Debug\net7.0\CardGen.pdb
+D:\Projs\C#\ConsoleApp\CardGen\CardGen\obj\Debug\net7.0\CardGen.csproj.AssemblyReference.cache
+D:\Projs\C#\ConsoleApp\CardGen\CardGen\obj\Debug\net7.0\CardGen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projs\C#\ConsoleApp\CardGen\CardGen\obj\Debug\net7.0\CardGen.AssemblyInfoInputs.cache
+D:\Projs\C#\ConsoleApp\CardGen\CardGen\obj\Debug\net7.0\CardGen.AssemblyInfo.cs
+D:\Projs\C#\ConsoleApp\CardGen\CardGen\obj\Debug\net7.0\CardGen.csproj.CoreCompileInputs.cache
+D:\Projs\C#\ConsoleApp\CardGen\CardGen\obj\Debug\net7.0\CardGen.dll
+D:\Projs\C#\ConsoleApp\CardGen\CardGen\obj\Debug\net7.0\refint\CardGen.dll
+D:\Projs\C#\ConsoleApp\CardGen\CardGen\obj\Debug\net7.0\CardGen.pdb
+D:\Projs\C#\ConsoleApp\CardGen\CardGen\obj\Debug\net7.0\CardGen.genruntimeconfig.cache
+D:\Projs\C#\ConsoleApp\CardGen\CardGen\obj\Debug\net7.0\ref\CardGen.dll

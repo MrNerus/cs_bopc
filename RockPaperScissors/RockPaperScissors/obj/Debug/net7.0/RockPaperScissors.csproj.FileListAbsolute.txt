@@ -1,0 +1,15 @@
+D:\Projs\C#\ConsoleApp\RockPaperScissors\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.exe
+D:\Projs\C#\ConsoleApp\RockPaperScissors\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.deps.json
+D:\Projs\C#\ConsoleApp\RockPaperScissors\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.runtimeconfig.json
+D:\Projs\C#\ConsoleApp\RockPaperScissors\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.dll
+D:\Projs\C#\ConsoleApp\RockPaperScissors\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.pdb
+D:\Projs\C#\ConsoleApp\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.csproj.AssemblyReference.cache
+D:\Projs\C#\ConsoleApp\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projs\C#\ConsoleApp\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.AssemblyInfoInputs.cache
+D:\Projs\C#\ConsoleApp\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.AssemblyInfo.cs
+D:\Projs\C#\ConsoleApp\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+D:\Projs\C#\ConsoleApp\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.dll
+D:\Projs\C#\ConsoleApp\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\refint\RockPaperScissors.dll
+D:\Projs\C#\ConsoleApp\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.pdb
+D:\Projs\C#\ConsoleApp\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.genruntimeconfig.cache
+D:\Projs\C#\ConsoleApp\RockPaperScissors\RockPaperScissors\obj\Debug\net7.0\ref\RockPaperScissors.dll

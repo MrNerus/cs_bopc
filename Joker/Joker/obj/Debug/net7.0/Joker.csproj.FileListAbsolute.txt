@@ -1,0 +1,17 @@
+D:\Projs\C#\ConsoleApp\Joker\Joker\obj\Debug\net7.0\Joker.csproj.AssemblyReference.cache
+D:\Projs\C#\ConsoleApp\Joker\Joker\obj\Debug\net7.0\Joker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projs\C#\ConsoleApp\Joker\Joker\obj\Debug\net7.0\Joker.AssemblyInfoInputs.cache
+D:\Projs\C#\ConsoleApp\Joker\Joker\obj\Debug\net7.0\Joker.AssemblyInfo.cs
+D:\Projs\C#\ConsoleApp\Joker\Joker\obj\Debug\net7.0\Joker.csproj.CoreCompileInputs.cache
+D:\Projs\C#\ConsoleApp\Joker\Joker\bin\Debug\net7.0\Joker.exe
+D:\Projs\C#\ConsoleApp\Joker\Joker\bin\Debug\net7.0\Joker.deps.json
+D:\Projs\C#\ConsoleApp\Joker\Joker\bin\Debug\net7.0\Joker.runtimeconfig.json
+D:\Projs\C#\ConsoleApp\Joker\Joker\bin\Debug\net7.0\Joker.dll
+D:\Projs\C#\ConsoleApp\Joker\Joker\bin\Debug\net7.0\Joker.pdb
+D:\Projs\C#\ConsoleApp\Joker\Joker\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Projs\C#\ConsoleApp\Joker\Joker\obj\Debug\net7.0\Joker.csproj.CopyComplete
+D:\Projs\C#\ConsoleApp\Joker\Joker\obj\Debug\net7.0\Joker.dll
+D:\Projs\C#\ConsoleApp\Joker\Joker\obj\Debug\net7.0\refint\Joker.dll
+D:\Projs\C#\ConsoleApp\Joker\Joker\obj\Debug\net7.0\Joker.pdb
+D:\Projs\C#\ConsoleApp\Joker\Joker\obj\Debug\net7.0\Joker.genruntimeconfig.cache
+D:\Projs\C#\ConsoleApp\Joker\Joker\obj\Debug\net7.0\ref\Joker.dll

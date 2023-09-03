@@ -1,0 +1,15 @@
+D:\Projs\c#\ConsoleApp\TimeConverter\TimeConverter\bin\Debug\net7.0\TimeConverter.exe
+D:\Projs\c#\ConsoleApp\TimeConverter\TimeConverter\bin\Debug\net7.0\TimeConverter.deps.json
+D:\Projs\c#\ConsoleApp\TimeConverter\TimeConverter\bin\Debug\net7.0\TimeConverter.runtimeconfig.json
+D:\Projs\c#\ConsoleApp\TimeConverter\TimeConverter\bin\Debug\net7.0\TimeConverter.dll
+D:\Projs\c#\ConsoleApp\TimeConverter\TimeConverter\bin\Debug\net7.0\TimeConverter.pdb
+D:\Projs\c#\ConsoleApp\TimeConverter\TimeConverter\obj\Debug\net7.0\TimeConverter.csproj.AssemblyReference.cache
+D:\Projs\c#\ConsoleApp\TimeConverter\TimeConverter\obj\Debug\net7.0\TimeConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projs\c#\ConsoleApp\TimeConverter\TimeConverter\obj\Debug\net7.0\TimeConverter.AssemblyInfoInputs.cache
+D:\Projs\c#\ConsoleApp\TimeConverter\TimeConverter\obj\Debug\net7.0\TimeConverter.AssemblyInfo.cs
+D:\Projs\c#\ConsoleApp\TimeConverter\TimeConverter\obj\Debug\net7.0\TimeConverter.csproj.CoreCompileInputs.cache
+D:\Projs\c#\ConsoleApp\TimeConverter\TimeConverter\obj\Debug\net7.0\TimeConverter.dll
+D:\Projs\c#\ConsoleApp\TimeConverter\TimeConverter\obj\Debug\net7.0\refint\TimeConverter.dll
+D:\Projs\c#\ConsoleApp\TimeConverter\TimeConverter\obj\Debug\net7.0\TimeConverter.pdb
+D:\Projs\c#\ConsoleApp\TimeConverter\TimeConverter\obj\Debug\net7.0\TimeConverter.genruntimeconfig.cache
+D:\Projs\c#\ConsoleApp\TimeConverter\TimeConverter\obj\Debug\net7.0\ref\TimeConverter.dll

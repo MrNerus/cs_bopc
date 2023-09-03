@@ -1,0 +1,15 @@
+D:\Projs\C#\ConsoleApp\Guess10Second\Guess10Second\bin\Debug\net7.0\Guess10Second.exe
+D:\Projs\C#\ConsoleApp\Guess10Second\Guess10Second\bin\Debug\net7.0\Guess10Second.deps.json
+D:\Projs\C#\ConsoleApp\Guess10Second\Guess10Second\bin\Debug\net7.0\Guess10Second.runtimeconfig.json
+D:\Projs\C#\ConsoleApp\Guess10Second\Guess10Second\bin\Debug\net7.0\Guess10Second.dll
+D:\Projs\C#\ConsoleApp\Guess10Second\Guess10Second\bin\Debug\net7.0\Guess10Second.pdb
+D:\Projs\C#\ConsoleApp\Guess10Second\Guess10Second\obj\Debug\net7.0\Guess10Second.csproj.AssemblyReference.cache
+D:\Projs\C#\ConsoleApp\Guess10Second\Guess10Second\obj\Debug\net7.0\Guess10Second.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projs\C#\ConsoleApp\Guess10Second\Guess10Second\obj\Debug\net7.0\Guess10Second.AssemblyInfoInputs.cache
+D:\Projs\C#\ConsoleApp\Guess10Second\Guess10Second\obj\Debug\net7.0\Guess10Second.AssemblyInfo.cs
+D:\Projs\C#\ConsoleApp\Guess10Second\Guess10Second\obj\Debug\net7.0\Guess10Second.csproj.CoreCompileInputs.cache
+D:\Projs\C#\ConsoleApp\Guess10Second\Guess10Second\obj\Debug\net7.0\Guess10Second.dll
+D:\Projs\C#\ConsoleApp\Guess10Second\Guess10Second\obj\Debug\net7.0\refint\Guess10Second.dll
+D:\Projs\C#\ConsoleApp\Guess10Second\Guess10Second\obj\Debug\net7.0\Guess10Second.pdb
+D:\Projs\C#\ConsoleApp\Guess10Second\Guess10Second\obj\Debug\net7.0\Guess10Second.genruntimeconfig.cache
+D:\Projs\C#\ConsoleApp\Guess10Second\Guess10Second\obj\Debug\net7.0\ref\Guess10Second.dll
